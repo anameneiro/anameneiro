@@ -44,6 +44,8 @@ Sou uma estudante desenvolvimento front-end, em constante busca de aprimoramento
 
 </div>&nbsp;&nbsp;
 
+![Snake animation](https://github.com/anameneiro/anameneiro/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fe428e&height=120&section=footer"/>
 
 <!--
