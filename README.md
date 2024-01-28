@@ -25,7 +25,7 @@ Sou uma estudante desenvolvimento front-end, em constante busca de aprimoramento
 
 
 
-<img src="https://encurtador.com.br/hIV56" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://encurtador.com.br/hIV56" min-width="400px" max-width="400px" width="400px" align="right" alt="">
 
 
 #### Studying in this moment:
