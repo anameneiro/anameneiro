@@ -1,9 +1,24 @@
 
 
-<p>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=fe428e&center=true&random=false&width=435&lines=Ol%C3%A1!++Eu+sou+a+Ana" alt="Typing SVG" /></a>
+<p> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&color=FE428E&random=true&width=500&lines=Vamos+construir+coisas+incr%C3%ADveis+juntos%3F" alt="Typing SVG" /></a> </a>
 
-Sou uma desenvolvedora front-end em constante busca de aprimoramento.  Com um forte interesse em HTML, CSS e JavaScript, estou sempre explorando novas tecnologias e padrões de design para desenvolver sites elegantes, funcionais e interativos.  </p>
-<p>Além de desenvolver, eu também sou uma nerd de coração, pois é, sou aquela pessoa que assiste a documentários sobre algoritmos e fica empolgada com as atualizações do CSS. E quando não estou codificando, estou explorando mundos virtuais, derrotando bosses e resolvendo quebra-cabeças. À noite, gosto de observar as estrelas e pensar nas infinitas possibilidades do universo 🚀✨</p>
+Desenvolvedora front-end em formação pela EBAC, e estudante de Análise e Desenvolvimento de Sistemas na Toledo Prudente.  </p> <p>Além de desenvolver, sou uma nerd de coração, pois é, sou aquela pessoa que assiste a documentários sobre algoritmos e fica empolgada com as atualizações do CSS. E quando não estou codificando, estou explorando mundos virtuais, derrotando bosses e resolvendo quebra-cabeças.  🚀✨</p>
+<br>
+
+```js
+import Desenvolvedora from 'Naneda';
+class SobreMim extends Desenvolvedora {
+  nome     = 'Ana Claudia Meneiro';
+  area    = 'Front-end';
+  local = 'Teodoro Sampaio, SP';
+}
+```
+
+
+
+
+<br>
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=anameneiro&theme=radical&mode=weekly"/>
@@ -13,7 +28,7 @@ Sou uma desenvolvedora front-end em constante busca de aprimoramento.  Com um fo
 #### Main Stack:
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp; 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -44,8 +59,7 @@ Sou uma desenvolvedora front-end em constante busca de aprimoramento.  Com um fo
 
 </div>&nbsp;&nbsp;
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fe428e&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FE428E&section=footer"/>
 
 <!--
 **anameneiro/anameneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
