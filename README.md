@@ -2,9 +2,8 @@
 
 <p> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&color=FE428E&random=true&width=500&lines=Vamos+construir+coisas+incr%C3%ADveis+juntos%3F" alt="Typing SVG" /></a> </a>
 
-Desenvolvedora front-end em formação pela EBAC, e estudante de Análise e Desenvolvimento de Sistemas na Toledo Prudente.  </p> <p>Além de desenvolver, sou uma nerd de coração, pois é, sou aquela pessoa que assiste a documentários sobre algoritmos e fica empolgada com as atualizações do CSS. E quando não estou codificando, estou explorando mundos virtuais, derrotando bosses e resolvendo quebra-cabeças.  🚀✨</p>
+Desenvolvedora front-end em formação pela EBAC, e estudante de Análise e Desenvolvimento de Sistemas na Toledo Prudente.  </p> <p>Além de desenvolver, sou uma nerd de coração, pois é, sou aquela pessoa que assiste a documentários sobre algoritmos e fica empolgada com as atualizações do CSS. E quando não estou codificando, estou explorando mundos virtuais e derrotando bosses🚀✨</p>
 <br>
-
 ```js
 import Desenvolvedora from 'Naneda';
 class SobreMim extends Desenvolvedora {
