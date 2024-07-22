@@ -57,12 +57,12 @@ class SobreMim extends Desenvolvedora {
 <a href="https://www.linkedin.com/in/ana-claudia-meneiro-lima-8b6629282/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 </div>&nbsp;&nbsp;
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FE428E&section=footer"/>
-
+<div align="center">
+<img width="400px" height="200px" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif"/>
+</div>
 <!--
 **anameneiro/anameneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FE428E&section=footer"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
