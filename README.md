@@ -1,21 +1,21 @@
 
-
-<p> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&color=FE428E&random=true&width=500&lines=Vamos+construir+coisas+incr%C3%ADveis+juntos%3F" alt="Typing SVG" /></a> </a>
-
-Desenvolvedora front-end em formação pela EBAC, e estudante de Análise e Desenvolvimento de Sistemas na Toledo Prudente.  </p> <p>Além de desenvolver, sou uma nerd de coração, pois é, sou aquela pessoa que assiste a documentários sobre algoritmos e fica empolgada com as atualizações do CSS. E quando não estou codificando, estou explorando mundos virtuais e derrotando bosses🚀✨</p>
-<br>
-```js
-import Desenvolvedora from 'Naneda';
-class SobreMim extends Desenvolvedora {
-  nome     = 'Ana Claudia Meneiro';
-  area    = 'Front-end';
-  local = 'Teodoro Sampaio, SP';
-}
-```
+<div align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&width=435&lines=WHO+IS+ANA%3F" alt="Typing SVG" /></a>
+</div>
 
 
+<p>
+Em meio à rotina jurídica, sentia um chamado persistente por algo mais. A busca por um novo desafio me levou a explorar o mundo da programação. A lógica e a criatividade envolvidas na criação de interfaces me fascinaram, e assim, comecei a trilhar o caminho do desenvolvimento front-end.
 
+A transição não foi fácil. A curva de aprendizado era íngreme, e a linguagem técnica era completamente nova para mim. A paciência que desenvolvi como advogada foi fundamental para persistir diante dos obstáculos.
 
+Durante essa jornada, encontrei mentores incríveis que me guiaram e me inspiraram. A comunidade de desenvolvedores foi acolhedora e disposta a ajudar. Participei de diversos projetos durante meu curso de desenvolvimento front end, onde pude aprender na prática. Cada desafio superado era uma pequena vitória que me impulsionava a ir mais longe.
+
+A sensação de ver um projeto tomando forma, desde a concepção até a implementação final, é indescritível. A cada linha de código escrita, a cada bug resolvido, a satisfação era imensa. A possibilidade de criar experiências digitais que facilitam a vida das pessoas me motiva a cada dia.
+
+A cada dia, novas tecnologias surgem e o mundo do desenvolvimento front-end está em constante evolução. Mas a essência continua a mesma: a paixão pela criação e a vontade de aprender sempre mais. Acredito que a tecnologia tem o poder de transformar o mundo e estou ansiosa para fazer parte dessa transformação.
+
+ </p>
 <br>
 
 
@@ -64,6 +64,20 @@ class SobreMim extends Desenvolvedora {
 **anameneiro/anameneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FE428E&section=footer"/>
 Here are some ideas to get you started:
+
+Desenvolvedora front-end em formação pela EBAC, e estudante de Análise e Desenvolvimento de Sistemas na Toledo Prudente.  </p> <p>Além de desenvolver, sou uma nerd de coração, pois é, sou aquela pessoa que assiste a documentários sobre algoritmos e fica empolgada com as atualizações do CSS. E quando não estou codificando, estou explorando mundos virtuais e derrotando bosses🚀✨</p>
+<br>
+```js
+import Desenvolvedora from 'Naneda';
+class SobreMim extends Desenvolvedora {
+  nome     = 'Ana Claudia Meneiro';
+  area    = 'Front-end';
+  local = 'Teodoro Sampaio, SP';
+}
+```
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
