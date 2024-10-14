@@ -5,19 +5,20 @@
 
 
 <p>
-Em meio à rotina jurídica, sentia um chamado persistente por algo mais. A busca por um novo desafio me levou a explorar o mundo da programação. A lógica e a criatividade envolvidas na criação de interfaces me fascinaram, e assim, comecei a trilhar o caminho do desenvolvimento front-end.
-
-A transição não foi fácil. A curva de aprendizado era íngreme, e a linguagem técnica era completamente nova para mim. A paciência que desenvolvi como advogada foi fundamental para persistir diante dos obstáculos.
-
-Durante essa jornada, encontrei mentores incríveis que me guiaram e me inspiraram. A comunidade de desenvolvedores foi acolhedora e disposta a ajudar. Participei de diversos projetos durante meu curso de desenvolvimento front end, onde pude aprender na prática. Cada desafio superado era uma pequena vitória que me impulsionava a ir mais longe.
-
-A sensação de ver um projeto tomando forma, desde a concepção até a implementação final, é indescritível. A cada linha de código escrita, a cada bug resolvido, a satisfação era imensa. A possibilidade de criar experiências digitais que facilitam a vida das pessoas me motiva a cada dia.
-
-A cada dia, novas tecnologias surgem e o mundo do desenvolvimento front-end está em constante evolução. Mas a essência continua a mesma: a paixão pela criação e a vontade de aprender sempre mais. Acredito que a tecnologia tem o poder de transformar o mundo e estou ansiosa para fazer parte dessa transformação.
-
+👋 Olá! Sou desenvolvedora front-end formada pela EBAC, estudante de Análise e Desenvolvimento de Sistemas na Toledo Prudente e formada em Direito pela FAPEPE.
  </p>
-<br>
 
+<p>
+ 🌟 Minha paixão por inovação e desafios me levou a fazer a transição da advocacia para o desenvolvimento web. Tenho experiência com HTML, CSS, JavaScript, React e Vue.js, criando interfaces intuitivas e interativas.
+
+</p>
+
+<p>
+ 📚 Tenho interesse especial em UI/UX e estou sempre aprendendo novas linguagens para expandir minhas capacidades. Além disso, possuo conhecimento em TypeScript, Redux, jQuery, Figma, Bootstrap, SASS, LESS, testes unitários e otimização de SEO.
+</p>
+
+<p>
+🎮 Fora do trabalho, adoro jogar videogames, fazer artesanato e capturar momentos por meio da fotografia.</p>
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=anameneiro&theme=radical&mode=weekly"/>
